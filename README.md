@@ -27,6 +27,8 @@
 ---
 
 ## Java 10
+> * var - 지역 변수 타입 추론 (Local Variable Type Inference)
+> * G1 GC 성능 개선 (Parallel Full GC for G1)
 
 ---
 
