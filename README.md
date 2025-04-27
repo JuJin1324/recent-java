@@ -1,6 +1,6 @@
 # recent-java
 
-## Java 1.8
+## Java 1.8 (LTS)
 > * 람다 표현식 (Lambda Expressions)
 > * 함수형 인터페이스 (Functional Interfaces)
 > * 메서드 레퍼런스 (Method References)
@@ -32,7 +32,7 @@
 
 ---
 
-## Java 11
+## Java 11 (LTS)
 > * 새로운 표준 HTTP 클라이언트 (New HTTP Client - Standard)
 > * 람다 파라미터에 대한 지역 변수 타입 추론 (Local-Variable Syntax for Lambda Parameters)
 > * 단일 파일 소스 코드 프로그램 실행 (Launch Single-File Source-Code Programs)
@@ -44,9 +44,42 @@
 ---
 
 ## Java 12
+> * Microbenchmark Suite 추가
+> * JVM Constants API
 
 ---
 
 ## Java 13
+> * JVM 관련 개선 사항이 대부분
 
 ---
+
+## Java 14
+> * Switch Expressions (Standard - 정식 표준 기능!)
+> * 유용한 NullPointerExceptions (Helpful NullPointerExceptions)
+> * NUMA-Aware Memory Allocation for G1
+
+---
+
+## Java 15
+> * Text Blocks (Standard - 정식 표준 기능!)
+> * Hidden Classes (히든 클래스)
+
+---
+
+## Java 16
+> * Records (Standard - 정식 표준 기능!)
+> * Pattern Matching for instanceof (Standard - 정식 표준 기능!)
+> * Elastic Metaspace
+> * ZGC: Concurrent Thread-Stack Processing
+> * Alpine Linux Port
+
+---
+
+## Java 17 (LTS)
+> * Sealed Classes (Standard - 정식 표준 기능!)
+> * 향상된 의사 난수 생성기 (Enhanced Pseudo-Random Number Generators)
+> * 스프링 부트 3의 최소 요구 버전
+
+---
+
