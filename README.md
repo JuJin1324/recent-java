@@ -33,6 +33,13 @@
 ---
 
 ## Java 11
+> * 새로운 표준 HTTP 클라이언트 (New HTTP Client - Standard)
+> * 람다 파라미터에 대한 지역 변수 타입 추론 (Local-Variable Syntax for Lambda Parameters)
+> * 단일 파일 소스 코드 프로그램 실행 (Launch Single-File Source-Code Programs)
+> * 새로운 문자열(String) 메서드 추가
+> * 새로운 파일(Files) 메서드 추가
+> * Optional.isEmpty() 메서드 추가
+> * Predicate.not() 메서드 추가
 
 ---
 
