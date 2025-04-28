@@ -83,3 +83,10 @@
 
 ---
 
+## Java 18
+> * UTF-8 기본 문자 집합 (Default Charset)
+> * 간단한 웹 서버 (Simple Web Server)
+> * 코드 스니펫 (Code Snippets in Java API Documentation)
+
+---
+
