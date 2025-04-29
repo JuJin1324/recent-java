@@ -101,6 +101,11 @@
 ---
 
 ## Java 21
-> * 
+> * Virtual Threads (Standard - 정식 표준 기능!)
+> * Sequenced Collections (Standard - 정식 표준 기능!)
+> * Record Patterns (Standard - 정식 표준 기능!)
+> * Pattern Matching for switch (Standard - 정식 표준 기능!)
+> * Key Encapsulation Mechanism API (Standard - 정식 표준 기능!)
 
 ---
+
