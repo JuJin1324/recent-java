@@ -1,6 +1,7 @@
 # recent-java
 
 ## Java 1.8 (LTS)
+
 > * 람다 표현식 (Lambda Expressions)
 > * 함수형 인터페이스 (Functional Interfaces)
 > * 메서드 레퍼런스 (Method References)
@@ -14,6 +15,7 @@
 ---
 
 ## Java 9
+
 > * 모듈 시스템 (Module System - Project Jigsaw)
 > * JShell (자바 REPL)
 > * 개선된 컬렉션 팩토리 메서드 (List.of(), Set.of(), Map.of())
@@ -27,12 +29,14 @@
 ---
 
 ## Java 10
+
 > * var - 지역 변수 타입 추론 (Local Variable Type Inference)
 > * G1 GC 성능 개선 (Parallel Full GC for G1)
 
 ---
 
 ## Java 11 (LTS)
+
 > * 새로운 표준 HTTP 클라이언트 (New HTTP Client - Standard)
 > * 람다 파라미터에 대한 지역 변수 타입 추론 (Local-Variable Syntax for Lambda Parameters)
 > * 단일 파일 소스 코드 프로그램 실행 (Launch Single-File Source-Code Programs)
@@ -44,17 +48,20 @@
 ---
 
 ## Java 12
+
 > * Microbenchmark Suite 추가
 > * JVM Constants API
 
 ---
 
 ## Java 13
+
 > * JVM 관련 개선 사항이 대부분
 
 ---
 
 ## Java 14
+
 > * Switch Expressions (Standard - 정식 표준 기능!)
 > * 유용한 NullPointerExceptions (Helpful NullPointerExceptions)
 > * NUMA-Aware Memory Allocation for G1
@@ -62,12 +69,14 @@
 ---
 
 ## Java 15
+
 > * Text Blocks (Standard - 정식 표준 기능!)
 > * Hidden Classes (히든 클래스)
 
 ---
 
 ## Java 16
+
 > * Records (Standard - 정식 표준 기능!)
 > * Pattern Matching for instanceof (Standard - 정식 표준 기능!)
 > * Elastic Metaspace
@@ -77,6 +86,7 @@
 ---
 
 ## Java 17 (LTS)
+
 > * Sealed Classes (Standard - 정식 표준 기능!)
 > * 향상된 의사 난수 생성기 (Enhanced Pseudo-Random Number Generators)
 > * 스프링 부트 3의 최소 요구 버전
@@ -84,6 +94,7 @@
 ---
 
 ## Java 18
+
 > * UTF-8 기본 문자 집합 (Default Charset)
 > * 간단한 웹 서버 (Simple Web Server)
 > * 코드 스니펫 (Code Snippets in Java API Documentation)
@@ -91,21 +102,33 @@
 ---
 
 ## Java 19
+
 > * 프리뷰만 있기 때문에 생략
 
 ---
 
 ## Java 20
+
 > * 프리뷰만 있기 때문에 생략
 
 ---
 
 ## Java 21
-> * Virtual Threads (Standard - 정식 표준 기능!)
+
+> * Virtual Threads (Standard - 정식 표준 기능!): Java 21의 가상 스레드를 공식적으로 지원하고 관련 기능을 제공하기 시작한 핵심 버전은 스프링 부트 3.2 야 (2023년 11월
+    출시). 스프링 부트 3.2는 Java 21을 베이스라인으로 지원하며, 가상 스레드를 쉽게 활용할 수 있는 기능들을 도입했어.
 > * Sequenced Collections (Standard - 정식 표준 기능!)
 > * Record Patterns (Standard - 정식 표준 기능!)
 > * Pattern Matching for switch (Standard - 정식 표준 기능!)
 > * Key Encapsulation Mechanism API (Standard - 정식 표준 기능!)
+
+---
+
+## Java 22
+
+> * Foreign Function & Memory API (Standard - 정식 표준 기능!)
+> * Unnamed Variables & Patterns (Standard - 정식 표준 기능!)
+> * Launch Multi-File Source-Code Programs (Standard - 정식 표준 기능!)
 
 ---
 
